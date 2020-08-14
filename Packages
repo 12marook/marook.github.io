@@ -1,0 +1,13 @@
+Package: jp.akusio.backgrounderaction12
+Name: BackgrounderAction
+Version: 6.0
+Architecture: iphoneos-arm
+Description: Respring with a Pwnapple!
+Maintainer: Marook
+Author: Marook
+Section: Themes 
+Filename: /backgrounderaction.deb
+Size: 21308
+MD5sum: 15173fd99097de7fbd73181cce6369ee
+SHA1: 1d619f4d3bf01e02a709bb53e9bde0b2de0c8788
+SHA256: 27B29176AD2AAF9CC46BC5C21AC2743DA9042565AD620523A85570A34D397259
